@@ -9,6 +9,8 @@ namespace Stacks.Net5._0
         {
             //defining a new stack
             Stack<int> stack = new Stack<int>();
+            //add elements to the stack using Push()
+            stack.Push(1);
         }
     }
 }
